@@ -1,2 +1,2 @@
 # test_repo
-This is github api testing purposes.
+This is for github api testing purposes.
