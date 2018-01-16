@@ -1,0 +1,7 @@
+# Test yaml file
+"Devin Miller":
+  Slack: "test"
+  Gmail: "test
+"John Doe":
+  Slack: "John"
+  Gmail: "Doe"
