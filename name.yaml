@@ -2,5 +2,5 @@
 John Doe:
   Gmail: Doe
   Slack: '@OKJOHN2'
-Devin Miller: !!omap
-- Github: dmiller
+Devin Miller:
+  Github: dmiller
