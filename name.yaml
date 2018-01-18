@@ -4,3 +4,5 @@ John Doe:
   Slack: '@OKJOHN2'
 Devin Miller:
   Github: dmiller
+Test User: !!omap
+- Slack: '@test'
