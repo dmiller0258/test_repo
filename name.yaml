@@ -5,7 +5,7 @@ John Doe:
 Devin Miller:
   Github: dmiller
 Test User: !!omap
-- Slack: '@test'
+- Slack: '@testing'
 Test: !!omap
 - ok: ok
 ? ''
