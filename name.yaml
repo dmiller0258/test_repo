@@ -8,3 +8,7 @@ Test User: !!omap
 - Slack: '@test'
 Test: !!omap
 - ok: ok
+? ''
+: !!omap
+- ? ''
+  : ''
